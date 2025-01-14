@@ -49,7 +49,7 @@ const BookingForm = ({
   };
 
   return (
-    <form aria-label="On Click" onSubmit={handleFormSubmit}>
+    <form onSubmit={handleFormSubmit}>
       <FormField 
         label="Date" 
         htmlFor="booking-date" 
@@ -58,6 +58,7 @@ const BookingForm = ({
       >
         <input 
           type="date" 
+          aria-label="booking-date"
           id="booking-date" 
           name="booking-date" 
           min={minimumDate} 
@@ -74,6 +75,7 @@ const BookingForm = ({
       >
         <select 
           id="booking-time" 
+          aria-label="booking-time"
           name="booking-time" 
           value={time} 
           required={true} 
@@ -94,6 +96,7 @@ const BookingForm = ({
       >
         <input 
           type="number" 
+          aria-label="booking-number-guests"
           id="booking-number-guests" 
           name="booking-number-guests" 
           value={numberOfGuests} 
@@ -111,6 +114,7 @@ const BookingForm = ({
       >
         <select 
           id="booking-occasion" 
+          aria-label="booking-occasion"
           name="booking-occasion" 
           value={occasion} 
           required={true} 
