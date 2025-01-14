@@ -10,4 +10,4 @@ This website showcased implementing a booking application on the Little Lemon We
 
 ## Screenshots
 
-![little lemon website with table booking](/public/screenshot_little_lemon.png)
+![little lemon website with table booking](/public/Screenshot_little_lemon.png)
