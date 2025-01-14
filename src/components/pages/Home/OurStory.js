@@ -9,19 +9,14 @@ const OurStory = () => {
         <h1>Little Lemon</h1>
         <h2>Chicago</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
-          nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla 
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in 
-          culpa qui officia deserunt mollit anim id est laborum. Sed ut 
-          perspiciatis unde omnis iste natus error sit voluptatem accusantium 
-          doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo 
-          inventore veritatis et quasi architecto beatae vitae dicta sunt 
-          explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut 
-          odit aut fugit, sed quia consequuntur magni dolores eos qui ratione 
-          voluptatem sequi nesciunt.
+        Little Lemon is a charming neighborhood bistro thatserves simple food and classic cocktails in a lively but casual environment. 
+        The restaurant features a locally-sourced menu with daily specials.
+        </p>
+        <p>
+        Little Lemon is owned by two Italian brothers, Mario and Adrian, who moved to the United States to pursue their shared dream of owning a restaurant.
+        <br></br>
+        To craft the menu, Mario relies on family recipes and his experience as a chef in Italy. 
+        Adrian does all the marketing for the restaurant and led the effort to expand the menu beyond classic Italian to incorporate additional cuisines from the Mediterranean region.
         </p>
       </div>
       <div className="our-story-chefs">
